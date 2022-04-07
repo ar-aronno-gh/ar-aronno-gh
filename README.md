@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar-aronno-gh
 - 👀 I’m interested in Coding, Singing
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on facebook
 
 <!---
